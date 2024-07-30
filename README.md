@@ -71,7 +71,7 @@ Once the game is running, you will see the title screen and required steps.
 - **Sound Effects:** `ping_pong_8bit_plop` and `ping_pong_8bit_peeeeeep` from opengameart.org
 - **Music:** `pong` from opengameart.org
 - **Framework:** MonoGame
-- **Font:** from www.sweeep.fr by Ansimuz
+- **Font:** `8-bit Arcade In` from www.sweeep.fr by Ansimuz
 
 Feel free to contribute to this project by forking the repository and submitting pull requests. If you encounter any issues, please report them on the [issue tracker](https://github.com/gokturkozkan/Pong-Game/issues).
 
