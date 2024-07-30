@@ -11,7 +11,6 @@ This is a recreation of the classic Pong game using MonoGame. The game supports 
 - [Credits](#credits)
 
 ## Features
-- Full-screen gameplay
 - Single-player mode with AI
 - Two-player mode
 - Sound effects and background music
